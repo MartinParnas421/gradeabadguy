@@ -1,6 +1,6 @@
-Connection to DB (SQL in PHP)
-SSL/ TLS sikkerhed
-Inputform i HTML5
-Userspriviligies 
-Gemme password/brugenavn - hvordan? 
-Martin: Github
+Connection to DB (SQL in PHP) - done
+SSL/ TLS sikkerhed - ?
+Inputform i HTML5 - MP, mangler knapper og destroyession ved logud
+Userspriviligies - MP
+Gemme password/brugenavn - hvordan? hashes, saltes - MP 
+Cookies, skal vi bruge dem, er i pensum?
